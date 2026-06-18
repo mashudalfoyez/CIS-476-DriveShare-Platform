@@ -2,7 +2,6 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/CIS-446-DriveShare-Platform" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/CIS-476-DriveShare-Platform" vcs="Git" />
   </component>
 </project>
